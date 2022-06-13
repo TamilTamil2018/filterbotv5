@@ -93,5 +93,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Sahid malik](https://t.me/Tamil2018_)                                                                                                                                                                                 
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies house](https://t.me/Team_idiots)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Tamil](https://t.me/Tamil2018)                                                                                                                                                                                 
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [Team_idiots](https://t.me/Team_idiots)
